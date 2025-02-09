@@ -1,0 +1,3 @@
+- 🔭 I’m currently working on Bachelor of IT @ JCU
+- 🌱 I’m currently learning Website Design, CMS, Data Mining
+-->
